@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<div align="center"><img width="1000" src="https://media.giphy.com/media/9cZQnwdzUXTDG/giphy.gif"/></div>
+Hello! I'm a Polish programmer who loves to get better at it.
 <!--
 **ThePanToster/ThePanToster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
