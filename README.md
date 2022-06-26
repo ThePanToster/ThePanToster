@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my profile!</h1>
 <div align="center">
-    <img width="1000" src="./banner.webp"/>
+    <img width="1000" src="./content/banner.webp"/>
 </div>
 <h2>About me</h2>
 <p>
