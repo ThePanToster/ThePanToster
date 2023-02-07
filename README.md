@@ -19,6 +19,11 @@
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-empty.png"/>
         </td>
     </tr>
     <tr>
@@ -30,6 +35,11 @@
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-empty.png"/>
+            <img width="30" src="./content/rating-empty.png"/>
         </td>
     </tr>
     <tr>
@@ -41,6 +51,11 @@
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-empty.png"/>
+            <img width="30" src="./content/rating-empty.png"/>
         </td>
     </tr>
     <tr>
@@ -51,6 +66,11 @@
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-empty.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-empty.png"/>
             <img width="30" src="./content/rating-empty.png"/>
         </td>
     </tr>
@@ -63,6 +83,11 @@
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-empty.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-empty.png"/>
+            <img width="30" src="./content/rating-empty.png"/>
         </td>
     </tr>
     <tr>
@@ -74,15 +99,9 @@
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-empty.png"/>
             <img width="30" src="./content/rating-empty.png"/>
-        </td>
-    </tr>
-    <tr>
-        <td align="center"><img height="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg"/></td>
-        <td>C++</td>
-        <td>
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
-            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-empty.png"/>
             <img width="30" src="./content/rating-empty.png"/>
             <img width="30" src="./content/rating-empty.png"/>
         </td>
@@ -94,6 +113,27 @@
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-empty.png"/>
+            <img width="30" src="./content/rating-empty.png"/>
+            <img width="30" src="./content/rating-empty.png"/>
+            <img width="30" src="./content/rating-empty.png"/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center"><img height="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg"/></td>
+        <td>C++</td>
+        <td>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-empty.png"/>
+            <img width="30" src="./content/rating-empty.png"/>
+            <img width="30" src="./content/rating-empty.png"/>
             <img width="30" src="./content/rating-empty.png"/>
             <img width="30" src="./content/rating-empty.png"/>
         </td>
@@ -109,6 +149,11 @@
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-empty.png"/>
             <img width="30" src="./content/rating-empty.png"/>
         </td>
     </tr>
@@ -120,6 +165,11 @@
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-empty.png"/>
             <img width="30" src="./content/rating-empty.png"/>
         </td>
     </tr>
@@ -129,7 +179,12 @@
         <td>
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
-            <img width="30" src="./content/rating-empty.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-empty.png"/>
             <img width="30" src="./content/rating-empty.png"/>
         </td>
@@ -145,6 +200,11 @@
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-empty.png"/>
+            <img width="30" src="./content/rating-empty.png"/>
             <img width="30" src="./content/rating-empty.png"/>
         </td>
     </tr>
@@ -156,6 +216,11 @@
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-empty.png"/>
+            <img width="30" src="./content/rating-empty.png"/>
             <img width="30" src="./content/rating-empty.png"/>
         </td>
     </tr>
@@ -166,6 +231,11 @@
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-empty.png"/>
             <img width="30" src="./content/rating-empty.png"/>
             <img width="30" src="./content/rating-empty.png"/>
         </td>
@@ -177,6 +247,11 @@
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-empty.png"/>
+            <img width="30" src="./content/rating-empty.png"/>
+            <img width="30" src="./content/rating-empty.png"/>
+            <img width="30" src="./content/rating-empty.png"/>
             <img width="30" src="./content/rating-empty.png"/>
             <img width="30" src="./content/rating-empty.png"/>
         </td>
