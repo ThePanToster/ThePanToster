@@ -66,7 +66,7 @@
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
-            <img width="30" src="./content/rating-empty.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
@@ -82,7 +82,7 @@
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
-            <img width="30" src="./content/rating-empty.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
@@ -97,8 +97,8 @@
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
-            <img width="30" src="./content/rating-empty.png"/>
-            <img width="30" src="./content/rating-empty.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
+            <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-filled.png"/>
             <img width="30" src="./content/rating-empty.png"/>
