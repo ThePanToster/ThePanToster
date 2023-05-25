@@ -4,7 +4,7 @@
 </div>
 <h2>About me</h2>
 <p>
-    Hello! I'm a 20-year-old Polish programmer who loves to get better at it. I currently live in Poland and <b>I'm looking for a job</b>.
+    Hello! I'm a 21-year-old Polish programmer who loves to get better at it. I currently live in Poland and <b>I'm looking for a job</b>.
     My main interest revolves around creating games and websites
 </p>
 <h2>Skill set</h2>
