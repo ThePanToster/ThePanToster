@@ -4,8 +4,8 @@
 </div>
 <h2>About me</h2>
 <p>
-    Hello! I'm a 21-year-old Polish programmer who loves to get better at it. I currently live in Poland and <b>I'm looking for a job</b>.
-    My main interest revolves around creating games and websites. Check out my pinned repositories below \/ \/ \/
+    Hello! I'm a 21-year-old Polish software developer who loves to get better at it. I currently live in Poland and <b>I'm looking for a job</b>.
+    My main interest revolves around creating web applications. Check out my pinned repositories below \/ \/ \/
 </p>
 
 <!--
